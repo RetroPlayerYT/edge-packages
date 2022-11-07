@@ -1,4 +1,4 @@
-Vous pourrez voir ici tous les paquets de la language de programmation "Edge".
+Vous pourrez voir ici tous les paquets de la language de programmation "Edge".<br>
 Il y a aussi des comportements (comp), des paquets installés en défaut/requis pour le fonctionnement de l'application.
 
 ## Liste de paquets:
